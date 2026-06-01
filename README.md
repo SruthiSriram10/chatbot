@@ -1,14 +1,3 @@
-**🤖 AI Chatbot Application**
+<img width="1452" height="822" alt="image" src="https://github.com/user-attachments/assets/0e99c2cf-0883-44bc-99e2-be0e4e0dcb88" />
 
-🎯 Objectives:
-*To develop an intelligent chatbot capable of responding to user queries.
-*To understand the working of conversational AI systems.
-*To implement Natural Language Processing techniques for better interaction.
-*To provide a simple and user-friendly chatbot interface.
 
-⚙️ Features:
-💬 Interactive chat interface.
-🤖 AI-based response generation.
-⚡ Real-time conversation with users.
-🧠 Basic natural language understanding.
-📱 Responsive and user-friendly design.
